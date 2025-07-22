@@ -23,4 +23,4 @@ This project predicts employee salary based on experience, education, and job ro
 
 ## Deployment
 
-Push to GitHub and deploy on [Streamlit Cloud](https://streamlit.io/cloud).
+https://7hwwo3swjgnkqpplcitrxo.streamlit.app/
